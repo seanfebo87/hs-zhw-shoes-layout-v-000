@@ -37,4 +37,6 @@
 .col-3 {
 }
 
-[class*=]
+[class*="col-"] {
+  
+}
